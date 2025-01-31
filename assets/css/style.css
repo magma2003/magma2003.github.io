@@ -1,0 +1,18 @@
+body  {
+   background-color: black; 
+   color: white;
+}
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.section {
+    background-color: grey;
+    color: #000;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
